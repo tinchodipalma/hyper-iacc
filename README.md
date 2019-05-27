@@ -1,9 +1,7 @@
-# hyperyellow
+# hyper-iacc
 
-Turns [hyper](https://hyper.is/) yellow.
-
-<img src="https://cldup.com/iKSFIa2GlW.png" width=500 />
+IACC theme for [hyper](https://hyper.is/).
 
 ## How to use
 
-Add `hyperyellow` to `plugins` in `~/.hyper.js`.
+Add `@tinchodipalma/hyper-iacc` to `plugins` in `~/.hyper.js`.

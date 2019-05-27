@@ -1,7 +1,23 @@
 {
-  "name": "hyperyellow",
+  "name": "hyper-iacc",
   "version": "0.0.1",
-  "keywords": ["hyper"],
-  "description": "",
+  "license": "MIT",
+  "author": {
+    "name": "Martín Di Palma",
+    "email": "tinchodipalma@gmail.com",
+    "url": "https://github.com/tinchodipalma"
+  },
+  "repository": "https://github.com/tinchodipalma/hyper-iacc",
+  "files": [
+    "index.js",
+    "backgrounds"
+  ],
+  "keywords": [
+    "hyper",
+    "theme",
+    "iacc",
+    "hyper-iacc"
+  ],
+  "description": "IACC theme for Hyper",
   "dependencies": {}
 }
